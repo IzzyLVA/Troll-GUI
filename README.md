@@ -22,8 +22,8 @@ This is a playful Python GUI that multiplies like a gremlin when you try to clos
 python troll_gui.py
 ```
 
-##🙈 Disclaimer
+## 🙈 Disclaimer
 - This was created as a coding joke and learning exercise. Don’t use it to actually troll people… unless they deserve it.
   
-##📚 License
+## 📚 License
 - This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
