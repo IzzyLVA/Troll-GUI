@@ -26,4 +26,4 @@ python troll_gui.py
 - This was created as a coding joke and learning exercise. Don’t use it to actually troll people… unless they deserve it.
   
 ##📚 License
-- MIT License
+- This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
